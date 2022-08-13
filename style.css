@@ -1,0 +1,57 @@
+#change{
+    color: rgb(111, 0, 255);
+    font-size: x-large;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.bang{
+    color: red;
+    background-color: red;
+}
+marquee{
+color: red;
+}
+
+.work{
+    text-align: center;
+    color: darkred;
+    font: 100;
+    justify-content:space-between;
+    font-family: fantasy;
+}
+.section1{
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 16px 20px 8px grey;
+    position: relative;
+
+}
+.section2{
+    background-color: rgb(159, 243, 74);
+    border: 1px dotted goldenrod;
+    border-radius: 20px;
+    box-shadow: 10px 10px  5px grey;
+}
+
+#win{
+    border: 2px solid green;
+}
+
+#images121{
+    border: 2px dotted black ;
+    background-color: aqua;
+    position: relative;
+}
+
+/* Two equal division */
+.row {
+    display: flex; 
+  }
+  .col {
+    flex: 1;
+    
+    padding: 1em;
+    border: solid;
+    margin: 2px;
+  }
